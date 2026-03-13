@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\TAP\TAP\bin\Debug\net8.0\TAP.exe
+C:\Users\Lenovo\source\repos\TAP\TAP\bin\Debug\net8.0\TAP.deps.json
+C:\Users\Lenovo\source\repos\TAP\TAP\bin\Debug\net8.0\TAP.runtimeconfig.json
+C:\Users\Lenovo\source\repos\TAP\TAP\bin\Debug\net8.0\TAP.dll
+C:\Users\Lenovo\source\repos\TAP\TAP\bin\Debug\net8.0\TAP.pdb
+C:\Users\Lenovo\source\repos\TAP\TAP\obj\Debug\net8.0\TAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\TAP\TAP\obj\Debug\net8.0\TAP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\TAP\TAP\obj\Debug\net8.0\TAP.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\TAP\TAP\obj\Debug\net8.0\TAP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TAP\TAP\obj\Debug\net8.0\TAP.dll
+C:\Users\Lenovo\source\repos\TAP\TAP\obj\Debug\net8.0\refint\TAP.dll
+C:\Users\Lenovo\source\repos\TAP\TAP\obj\Debug\net8.0\TAP.pdb
+C:\Users\Lenovo\source\repos\TAP\TAP\obj\Debug\net8.0\TAP.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\TAP\TAP\obj\Debug\net8.0\ref\TAP.dll
